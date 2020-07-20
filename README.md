@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **flutter, dart and open source**
 
+- 🌱 I’m currently learning **swift**
+
 - 📫 Through me a mail at **shubhamhackzz@gmail.com**
 
 - ⚡ Fun fact **Google India Scholar 2018 (Android)**
