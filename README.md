@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter, dart and open source**
 
-- 🌱 I’m currently learning **swift**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 Through me a mail at **shubhamhackzz@gmail.com**
 
