@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regulary write articles on [https://medium.com/@shubhamhackzz](https://medium.com/@shubhamhackzz)
+- 📝 I regulary write articles on [https://shubhamhackz.medium.com](https://shubhamhackz.medium.com)
 
 - 💬 Ask me about **flutter, dart and open source**
 
@@ -15,6 +15,8 @@
 - 📫 Through me a mail at **shubhamhackzz@gmail.com**
 
 - ⚡ Fun fact **Google India Scholar 2018 (Android)**
+
+- ⚡ Fun fact **Editor at Flutter Commununity Publication on Medium**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamhackz&show_icons=true" alt="shubhamhackz" /> </p>
 
