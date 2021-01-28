@@ -2,7 +2,7 @@
 <h3 align="center">A 🔥 flutter developer from India 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamhackz" alt="shubhamhackz" /> </p>
 
-- 🔭 I’m currently working on **few flutter projects**
+- 🔭 I’m currently working at **[7Sugar](https://play.google.com/store/apps/details?id=com.sensai.sevensugar.patient)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter, dart and open source**
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **More and more ways of using Flutter**
 
 - 📫 Through me a mail at **shubhamhackzz@gmail.com**
 
