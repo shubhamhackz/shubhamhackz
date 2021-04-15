@@ -2,7 +2,7 @@
 <h3 align="center">A 🔥 flutter developer from India 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamhackz" alt="shubhamhackz" /> </p>
 
-- 🔭 I’m currently working at **[7Sugar](https://play.google.com/store/apps/details?id=com.sensai.sevensugar.patient)**
+- 🔭 I’m currently working at **[Ketto](https://www.ketto.org)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
