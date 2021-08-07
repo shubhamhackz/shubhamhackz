@@ -4,7 +4,7 @@
 <h2 align="left">
  <abc>
   <br>Hello (नमस्ते) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Senior Executive-Mobile Development @[Ketto](https://www.ketto.org)  <img src="https://avatars.githubusercontent.com/u/11941555?v=4" width="50"><br>
+  <br> Senior Executive-Mobile Development @Ketto  <img src="https://avatars.githubusercontent.com/u/11941555?v=4" width="50"><br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
